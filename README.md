@@ -22,7 +22,7 @@ Follow these steps to run The-Movie-Hub on your local machine.
 ### Clone this repository
 
 ```bash
-git clone https://github.com/Pappyjay23/the-movie-hub.git
+git clone https://github.com/zacharymillerm/movie_box_with_alex.git
 ```
 
 ### Navigate to directory
@@ -55,5 +55,5 @@ npm run build
 
 ## Credits ✍
 
-Implementation by [@Pappyjay23](https://github.com/Pappyjay23)
+Implementation by [@ZacharyMiller](https://github.com/zacharymillerm)
 
